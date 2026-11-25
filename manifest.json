@@ -1,7 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/hearth-reader-app/hearth-releases/releases/download/v1.4.1/hearth-release.apk",
-  "sha256": "80cfb7b36752e89f9e976f5b531ece0643a952c767516e5f8a778025c72978f9",
-  "changelog": "Dreamy Translations still reads cleanly. Azure Chronicles chapters, free and locked, are recognized."
+  "versionCode": 7,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/hearth-reader-app/hearth-releases/releases/download/v1.4.2/hearth-release.apk",
+  "sha256": "fac853b137308220e8b31ba85d11259b56b4bde187239ae3078e376bb4b654d6",
+  "changelog": "TTS text cleanup for all voices; optional on-device Piper neural voices with download picker; keeps system TTS as default."
 }
+
+
+
+
+
+
+
