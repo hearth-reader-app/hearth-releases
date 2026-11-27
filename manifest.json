@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/hearth-reader-app/hearth-releases/releases/download/v1.4.3/hearth-release.apk",
-  "sha256": "62c5d50e7385a19c3787e00362756d6f53e83c8a0f50eeaf9f598b2f9866ef0a",
-  "changelog": "Fixed neural voices; home/settings button in browser; new glass-style design; switch voices while listening"
+  "versionCode": 9,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/hearth-reader-app/hearth-releases/releases/download/v1.4.4/hearth-release.apk",
+  "sha256": "83122fd0900c518e9fe785eb34c300d4d73a0b29761a6a136cc351d922845c6b",
+  "changelog": "Fixed neural voice stall and crash; crash log viewer in Settings"
 }
