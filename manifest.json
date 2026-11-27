@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.2",
-  "apkUrl": "https://github.com/hearth-reader-app/hearth-releases/releases/download/v1.4.2/hearth-release.apk",
-  "sha256": "fac853b137308220e8b31ba85d11259b56b4bde187239ae3078e376bb4b654d6",
-  "changelog": "TTS text cleanup for all voices; optional on-device Piper neural voices with download picker; keeps system TTS as default."
+  "versionCode": 8,
+  "versionName": "1.4.3",
+  "apkUrl": "https://github.com/hearth-reader-app/hearth-releases/releases/download/v1.4.3/hearth-release.apk",
+  "sha256": "62c5d50e7385a19c3787e00362756d6f53e83c8a0f50eeaf9f598b2f9866ef0a",
+  "changelog": "Fixed neural voices; home/settings button in browser; new glass-style design; switch voices while listening"
 }
